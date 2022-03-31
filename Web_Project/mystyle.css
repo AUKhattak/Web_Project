@@ -1,0 +1,343 @@
+.out{
+float:left;
+border:thick;
+background-color:#FFFFFF;
+border-bottom:solid 3px #DDDDDD;
+border-top: solid 3px #DDDDDD;
+border-radius: 5px;
+margin-left:3px;
+width:1500px;
+height:60px;
+}
+.outer{
+height: 2980px;
+width: 1506px;
+position:relative;
+top:-8px;
+left:-8;
+float:left;
+background-color:#0C88AF;
+}
+.home{
+float:left;
+font-size:23px;
+margin-left:15px;
+background-color: #FFFFFF;
+border-right: solid 1px;
+border-right-color: #003399;
+width:150px;
+height:60px;
+-webkit-transition: width 1s;
+ transition: width 1s;
+}
+.home:hover {
+	border-top:solid 3px #FF0000;
+
+	    }
+.pic{
+float:left;
+border: thin;
+font-size:23px;
+background-color:#FFFFFF;
+border-right: solid 1px;
+border-right-color: #003399; 
+width:200px;
+height:60px;
+font-size:25px;
+-webkit-transition: width 1s;
+ transition: width 1s;
+}
+.pic:hover {
+	border-top:solid 3px #FF0000;    }
+.rando{
+float:left;
+border:thick;
+font-size:23px;
+background-color:#FFFFFF;
+border-right: solid 1px;
+border-right-color: #003399;
+width:230px;
+height:60px;
+-webkit-transition: width 1s;
+ transition: width 1s;
+
+}
+.rando:hover {
+	border-top:solid 3px #FF0000;
+	    }
+.feedback{
+float:left;
+border:thick;
+font-size:23px;
+background-color:#FFFFFF;
+border-right: solid 1px;
+border-right-color: #003399;
+width:230px;
+height:60px;
+-webkit-transition: width 1s;
+ transition: width 1s;
+}
+.feedback:hover {
+	border-top:solid 3px #FF0000;
+	    }
+.contact{
+float:left;
+border:thick;
+font-size:23px;
+background-color:#FFFFFF;
+border-right: solid 1px;
+border-right-color: #003399;
+width:200px;
+height:60px;
+-webkit-transition: width 1s;
+ transition: width 1s;
+}
+.contact:hover {
+	border-top:solid 3px #FF0000;
+	    }
+.signin{
+float:left;
+border:thick;
+font-size:23px;
+background-color:#FFFFFF;
+border-right: solid 1px;
+border-right-color: #003399;
+width:230px;
+height:60px;
+-webkit-transition: width 1s;
+ transition: width 1s;
+}
+.signin:hover {
+	border-top:solid 3px #FF0000;
+	    }
+.aboutus{
+float:left;
+border:thick;
+font-size:23px;
+background-color:#FFFFFF;
+border: solid 0px;
+width:210px;
+height:60px;
+-webkit-transition: width 1s;
+ transition: width 1s;
+}
+.aboutus:hover {
+	border-top:solid 3px #FF0000;
+	    }
+
+.order_main{
+border:thick;
+background-color:#0C88AF;
+border: solid 0px;
+width:700px;
+height:600px;
+}
+	.logout{
+float:left;
+border:thick;
+font-size:23px;
+background-color:#FFFFFF;
+border: solid 0px;
+border-left:solid 1px;
+width:200px;
+height:60px;
+-webkit-transition: width 1s;
+ transition: width 1s;
+}
+.logout:hover {
+	border-top:solid 3px #FF0000;
+	    }
+	.cntct{
+float:left;
+border:thick;
+font-size:23px;
+background-color:#FFFFFF;
+border: solid 0px;
+border-right:#003399;
+border-right: solid 1px;
+width:230px;
+height:60px;
+-webkit-transition: width 1s;
+ transition: width 1s;
+}
+.cntct:hover {
+   	border-top:solid 3px #FF0000;
+    }
+	.sigin{
+float:left;
+border:thick;
+font-size:23px;
+background-color:#FFFFFF;
+border: solid 0px;
+border-left: solid 1px;
+border-right-color: #003399;
+width:200px;
+height:60px;
+-webkit-transition: width 1s;
+ transition: width 1s;
+}
+.sigin:hover {
+ 	border-top:solid 3px #FF0000;
+    }
+.order{
+margin-right:200px;
+border:thick;
+background-color:#0C88AF;
+border: solid 0px;
+width:700px;
+height:600px;
+}
+.photorder{
+margin-top:-634px;
+margin-left:750px;
+border:thick;
+background-color:#0C88AF;
+border: solid 0px;
+width:700px;
+height:600px;
+}
+.link{
+margin-top:-134px;
+margin-left:680px;
+background-color:#0C88AF;
+border: solid 0px;
+width:95px;
+height:20px;
+}
+.linktwo{
+margin-top:-55px;
+margin-left:653px;
+background-color:#0C88AF;
+border: solid 0px;
+width:145px;
+height:20px;
+}	
+.phone{
+float:left;
+width:300px;
+height:300px;
+background-color:#FFFFFF;
+border-radius: 10px;
+margin-top:0px;
+margin-left:100px;
+}
+.media{
+float:left;
+width:300px;
+height:300px;
+background-color:#FFFFFF;
+border-radius: 10px;
+margin-left:175px;
+margin-top:-20px;
+}
+.office{
+float:left;
+width:300px;
+height:300px;
+background-color:#FFFFFF;
+border-radius: 10px;
+margin-left:175px;
+margin-top:-40px;
+}
+.admin{
+background-image:url(adminis.jpg);
+float:left;
+height:200px;
+width:200px;
+background-color:#FFFFFF;
+margin-left:400px;
+margin-top:120px;
+border-radius:10px;
+}
+.user{
+background-image:url(user.png);
+float:left;
+height:200px;
+width:200px;
+background-color:#006600;
+margin-left:200px;
+margin-top:120px;
+border-radius:10px;
+}
+.maindiv{
+float:left;
+background-color:#0C88AF;
+width:1509px;
+height:700px;
+ 
+}
+.feedbaklist{
+float:left;
+border:thick;
+font-size:23px;
+background-color:#FFFFFF;
+border-right-color: #003399;
+width:240px;
+height:60px;
+-webkit-transition: width 1s;
+ transition: width 1s;
+}
+.feedbaklist:hover {
+	border-top:solid 3px #FF0000;
+    }
+	.emplist{
+float:left;
+border:thick;
+font-size:23px;
+background-color:#FFFFFF;
+border-right: solid 1px;
+border-right-color: #003399;
+width:230px;
+height:60px;
+-webkit-transition: width 1s;
+ transition: width 1s;
+}
+.emplist:hover {
+  	border-top:solid 3px #FF0000;
+    }
+	.addemp{
+float:left;
+border:thick;
+font-size:26px;
+background-color:#FFFFFF;
+border-right: solid 1px;
+border-right-color: #003399;
+width:230px;
+height:60px;
+-webkit-transition: width 1s;
+ transition: width 1s;
+}
+.addemp:hover {
+   	border-top:solid 3px #FF0000;
+    }
+	.orderlist{
+float:left;
+border:thick;
+font-size:23px;
+background-color:#FFFFFF;
+border-right: solid 1px;
+border-right-color: #003399;
+width:200px;
+height:60px;
+-webkit-transition: width 1s;
+ transition: width 1s;
+
+}
+.orderlist:hover {
+    	border-top:solid 3px #FF0000;
+    }
+	.admin2{
+background-image:url(adminis.jpg);
+float:left;
+height:200px;
+width:200px;
+background-color:#FFFFFF;
+margin-left:650px;
+margin-top:120px;
+border-radius:10px;
+}
+	.frm{ 
+width:1299px; height:300px; background-color:#FFFFFF; color:#000000; float:left; position:absolute;top:350px; left:100px; overflow:auto;
+border:solid 2px   #000000; border-collapse:collapse;
+
+ }
